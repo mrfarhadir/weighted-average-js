@@ -11,11 +11,11 @@ Suppose that you have list of products which each product has a field which show
 
 ## simple usage
 ```javascript
-var Wa = require('node-awa');
+var Awa = require('node-awa');
 let objs = [1,2,3,4];
 let params = [28,32,2,8];
-let wa = new Wa(objs,params);
-console.log(wa);
+let awa = new Awa(objs,params);
+console.log(awa);
 /* [3,4,1,2] */
 ```
 if you run this code multiple times mostly 3 and 4 are in the first and 2 in the last because of their parameters here we assume that product number 2 has been sold 32 time and product nnumber 3 has been sold just 2 times so our algorithm puts product number 3 to front to be sold more
