@@ -1,6 +1,6 @@
 {
   "name": "node-awa",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "average weighted alogrithm to sort array based on parameter",
   "main": "node-awa.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/mrfarhadir/weighted-average-js.git"
   },
   "keywords": [
-    "array"
+    "array","algorithm","average","weight","weighted average","average weighted"
   ],
   "author": "Farhad Mehryari",
   "license": "ISC",
