@@ -1,8 +1,8 @@
 {
-  "name": "_wa",
+  "name": "node-awa",
   "version": "1.0.0",
   "description": "average weighted alogrithm to sort array based on parameter",
-  "main": "_wa.js",
+  "main": "node-awa.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

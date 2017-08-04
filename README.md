@@ -7,11 +7,11 @@ assume that you have a set of data and each member has an extra parameter , when
 Suppose that you have list of products which each product has a field which shows how many it's been sold now we want to order our product in a way that those product which are not sold or they've been sold less , are in better view for users in other words products with less sale count could be shown on top for selling. so we you will have an array of products ID and another array for thier sale count .
 
 ##Installation :
-`npm install _wa`
+`npm install node-awa`
 
 ## simple usage
 ```javascript
-var Wa = require('_wa');
+var Wa = require('node-awa');
 let objs = [1,2,3,4];
 let params = [28,32,2,8];
 let wa = new Wa(objs,params);
