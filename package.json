@@ -1,0 +1,22 @@
+{
+  "name": "_wa",
+  "version": "1.0.0",
+  "description": "average weighted alogrithm to sort array based on parameter",
+  "main": "_wa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrfarhadir/weighted-average-js.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "Farhad Mehryari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrfarhadir/weighted-average-js/issues"
+  },
+  "homepage": "https://github.com/mrfarhadir/weighted-average-js#readme"
+}
